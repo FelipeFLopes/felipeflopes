@@ -15,5 +15,7 @@ This is the place where I develop data projects and learn new things
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 
 <p>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40" style="vertical-align:down; margin:4px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40" style="vertical-align:down; margin:4px"/> 
+<img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-layout.svg" alt="aws" height="40" style="vertical-align:down; margin:4px"/> 
 </p>
