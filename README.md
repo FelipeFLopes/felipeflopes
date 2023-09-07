@@ -2,7 +2,7 @@
 This is the place where I develop data projects and learn new things
 
 - 🔭 I’m currently working on applying MLOps on Uber
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning time series modeling
 - 💬 Ask me about data, investing, and jiu-jitsu
 
 
